@@ -1,4 +1,5 @@
 .transactionTable {
+  max-width: 600px;
   outline: 2px solid #000;
   width: 100%;
   border-collapse: collapse;
